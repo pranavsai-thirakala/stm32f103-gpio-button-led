@@ -5,7 +5,7 @@ register access, with no HAL.
 
 ## Hardware
 - STM32F103 [C6 / C8T6] board
-- LED on PA2 with [resistor value]
+- LED on PA2 with [10k]
 - Push button on PB5 to GND (internal pull-up)
 
 ## How it works
